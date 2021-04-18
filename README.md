@@ -2,9 +2,9 @@
 
 A series of microframeworks extending UIKit types with convenient strongly-typed methods.
 
-[UIStoryboard](#UIStoryboard)
-[UICollectionView](#UICollectionView)
-[UITableView](#UITableView)
+- [UIStoryboard](#UIStoryboard)
+- [UICollectionView](#UICollectionView)
+- [UITableView](#UITableView)
 
 ## UIStoryboard
 
