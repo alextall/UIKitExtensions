@@ -8,17 +8,17 @@ A series of microframeworks extending UIKit types with convenient strongly-typed
 
 ## UIStoryboard
 
-`func instantiate<T>(_:) -> T`
+- `func instantiate<T>(_:) -> T`
 
 ## UICollectionView
 
-`func registerClass(_:)`
-`func registerNib(_:)`
-`func dequeueReusableCell<T>(_:for: IndexPath) -> T`
+- `func registerClass(_:)`
+- `func registerNib(_:)`
+- `func dequeueReusableCell<T>(_:for: IndexPath) -> T`
 
 ## UITableView
 
-`func registerClass(_:)`
-`func registerNib(_:)`
-`func dequeue<T>(_:) -> T?`
-`func dequeue<T>(_:for:) -> T`
+- `func registerClass(_:)`
+- `func registerNib(_:)`
+- `func dequeue<T>(_:) -> T?`
+- `func dequeue<T>(_:for:) -> T`
